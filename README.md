@@ -10,7 +10,7 @@ An advance Weather App using ReactJS.
 6) Make the app take your current location.
 
 ### What I learned ->
-1) Working with multiple APIs simultaneously (Added 3 APIs, OpenWeather, OpenMap, Unsplash-Images).
+1) Working with multiple APIs simultaneously (Added 3 APIs, OpenWeatherMap, Opencagedata, Unsplash-Images).
 2) How to efficiently use Redux-Toolkit (Store, Slices, Selector, Dispatch).
 3) How to use the geolocation function to get the user's coordinates and address using API.
 4) How to use Chart.Js to make graphs using custom data.
