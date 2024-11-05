@@ -15,7 +15,7 @@ const FetchWeather = () => {
 
     // api to fetch weather data for city entered by user.
     fetch(
-      `https://api.openweathermap.org/data/2.5/forecast?q=${city.city}&appid=9cc8f77cd14bbc817f8f7ea8dabd0af7`,
+      `https://api.openweathermap.org/data/2.5/forecast?q=${city.city}&appid=d459c205feda3984c7dc5dfe5ce2524f`,
       { signal }
     )
       .then((res) => res.json())
